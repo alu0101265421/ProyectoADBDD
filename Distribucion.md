@@ -6,7 +6,6 @@
 - Gabriel García Jaubert -> alu0101240374@ull.edu.es
 - Cristo Manuel Pérez Rodriguez -> alu0101218007@ull.edu.es
 
-### Universidad de La Laguna, Grado en Ingeniería Informática
 
 Durante las primeras etapas del trabajo el equipo se reunió en cada sesión, es por ello, que los requisitos y el modelo E/R
 fueron consensuados por todos los integrantes del grupo. Una vez ya se sabía el rumbo que iba a tomar el proyecto, los miembros se distribuyeron de manera equitativa
