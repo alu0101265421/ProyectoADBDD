@@ -69,3 +69,6 @@ Falta completar
 Falta completar
 - [Enlace al repositorio](https://github.com/alu0101265421/ProyectoADBDD/tree/main/Carga%20de%20Datos)
 - [Enlace al PDF](poner enlace)
+
+## Distribución
+- [Enlace al documento](Distribucion.md)
