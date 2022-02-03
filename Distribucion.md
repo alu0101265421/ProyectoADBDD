@@ -7,7 +7,7 @@
 - Cristo Manuel Pérez Rodriguez -> alu0101218007@ull.edu.es
 
 
-Durante las primeras etapas del trabajo el equipo se reunió en cada sesión, es por ello, que los requisitos y el modelo E/R
+  Durante las primeras etapas del trabajo el equipo se reunió en cada sesión, es por ello, que los requisitos y el modelo E/R
 fueron consensuados por todos los integrantes del grupo. Una vez ya se sabía el rumbo que iba a tomar el proyecto, los miembros se distribuyeron de manera equitativa
 el resto del trabajo. Por ejemplo Elena Rijo quiso centrarse más en la redacción de los informes y en la organización del trabajo, por otro lado, Cristo realizó en
 un primer momento el modelo objeto relacional y Gabriel el modelo relacional. Es muy importante tener en cuenta que todas las tareas realizadas fueron corregidas y
