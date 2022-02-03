@@ -56,8 +56,7 @@ En la carpeta correspondiente a este apartado se encuentra una imagen del modelo
 - [Enlace al repositorio](https://github.com/alu0101265421/ProyectoADBDD/tree/main/Modelo%20L%C3%B3gico%20Objeto-Relacional)
 - [Enlace al PDF](https://github.com/alu0101265421/ProyectoADBDD/blob/main/Modelo%20L%C3%B3gico%20Objeto-Relacional/Objeto-Relacional_QUIDDITCH.pdf)
 
-
-![Objeto-Relacional](https://user-images.githubusercontent.com/72804514/152211118-5adb3957-e225-4a3b-9319-43c5bc11ab62.png)
+![Objeto-Relacional](https://user-images.githubusercontent.com/72441071/152389435-71c5e668-f786-418e-b6b6-b333b12640c4.jpg)
 
 
 ## Generación de Código
