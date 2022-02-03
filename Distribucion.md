@@ -5,7 +5,6 @@
 - Alejandro Peraza González -> alu0101211770@ull.edu.es
 - Gabriel García Jaubert -> alu0101240374@ull.edu.es
 - Cristo Manuel Pérez Rodriguez -> alu0101218007@ull.edu.es
-
 ## 
 
   Durante las primeras etapas del trabajo el equipo se reunió en cada sesión, es por ello, que los requisitos y el modelo E/R
