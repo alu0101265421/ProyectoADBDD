@@ -12,7 +12,7 @@
 
 ## Índice
 1. [Introducción](Introducción)
-2. [Requisitos del proyecto](Requisitos-del-proyecto)
+2. [Requisitos del proyecto]("Requisitos del proyecto")
 3. [Entidad Relación](Entidad-Relación)
 4. [Lógico Relacional](Lógico-Relacional)
 5. [Modelo Lógico Objeto Relacional](Modelo-Lógico-Objeto-Relacional)
