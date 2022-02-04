@@ -9,7 +9,7 @@
 
   Durante las primeras etapas del trabajo el equipo se reunió en cada sesión, es por ello, que los requisitos y el modelo E/R
 fueron consensuados por todos los integrantes del grupo. Una vez ya se sabía el rumbo que iba a tomar el proyecto, los miembros se distribuyeron de manera equitativa
-el resto del trabajo. Por ejemplo Elena Rijo quiso centrarse más en la redacción de los informes  y en la organización del trabajo. Respecto a la redacción de estos informes, Alejandro también contribuyó, asimismo también desempeñó correcciones al modelo E/R inicialmente propuesto, por otro lado, Cristo realizó en un primer momento el modelo UML y Gabriel el modelo relacional. 
+el resto del trabajo. Por ejemplo Elena Rijo quiso centrarse más en la redacción de los informes  y en la organización del trabajo. Respecto a la redacción de estos informes, Alejandro también contribuyó; asimismo, junto con Elena, también desempeñaron correcciones al modelo E/R inicialmente propuesto, por otro lado, Cristo realizó en un primer momento el modelo UML y Gabriel el modelo relacional. 
  
 A lo largo del transcurso del proyecto han surgido nuevas propuestas que han tenido que ser recogidas en los requisitos así como asegurarse de que todos los modelos sean coherentes entre ellos y recojan todo lo propuesto en los requisitos. De esta parte habituaba encargarse Alejandro, pero todos los miembros han estado involucrados en cierta medida. Cabe mencionar que los modelos implementados han pasado por diferentes fases realizando mejoras, estas mejoras fueron propuestas en grupo al revisar los trabajos realizados, tratando de estar todos de acuerdo a la hora de modificar la implementación. 
 
