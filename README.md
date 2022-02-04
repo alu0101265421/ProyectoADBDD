@@ -48,7 +48,7 @@ En la carpeta correspondiente a este apartado se encuentra una imagen del modelo
 - [Enlace al PDF](https://github.com/alu0101265421/ProyectoADBDD/blob/main/Logico%20Relacional/LogicoRelacional_QUIDDITCH.pdf)
 
 
-![Relacional](https://github.com/alu0101265421/ProyectoADBDD/blob/main/Logico%20Relacional/Logico%20Relacional.png)
+![Relacional](https://github.com/alu0101265421/ProyectoADBDD/blob/main/Logico%20Relacional/Relacional.png)
 
 
 ## Modelo Lógico Objeto Relacional
