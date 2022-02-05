@@ -38,7 +38,7 @@ En la carpeta de este apartado encontrarán una imagen del modelo entidad relaci
 - [Enlace al PDF](https://github.com/alu0101265421/ProyectoADBDD/blob/main/Entidad%20Relacion/EntidadRelacion_QUIDDITCH.pdf)
 
 
-![EntidadRelacion_Diagrama](https://github.com/alu0101265421/ProyectoADBDD/blob/main/Entidad%20Relacion/EntidadRelacion_Diagrama.png)
+![EntidadRelacion_Diagrama](https://github.com/alu0101265421/ProyectoADBDD/blob/main/Entidad%20Relacion/Diagrama%20Entidad%20Relaci%C3%B3n.jpg)
 
 
 ## Lógico Relacional
